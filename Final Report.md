@@ -41,3 +41,9 @@ The data required for this work is described in the Data section. Apart from tha
 
 ### Venues in SOUTH LAWNDALE
 ![](Fig3_venues.png)
+
+### Discussion
+This work only shows one area of Chicago while there are plenty of other places which also need to be explore. The procedure for analysing different community also need to be made automatic.
+
+### Conclusion
+Having to move to a big city will never be easy. In this work, SOUTH LAWNDALE has been showed to be one of the best community for living in Chicago. Popular venues in this areas are also presented.
