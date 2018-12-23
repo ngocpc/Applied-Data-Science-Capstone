@@ -30,7 +30,9 @@ As stated in the previous section of this report, our main goal is to search for
 To decide the ideal community, we must first identify which are the most violent areas in Chicago based on the Crime Data. The areas are then visulized on the map so users can be awared of those. Next, community with high number of schools which is idealy to live is presented to the users.
 
 ### Stage 3 - Data Requirements
-The data required for this work is described in the Data section. Apart from that, venues information provided by FourSquare is used also to give users an overview of their future ideal community.
+The data required for this work is described in the Data section. Those datasets were download and then stored in the IBM Db2 database for latter usage.
+Apart from that, venues information provided by FourSquare is used also to give users an overview of their future ideal community.
+
 
 ## Results
 ### The most violent community in Chicago
